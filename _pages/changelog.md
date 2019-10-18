@@ -5,7 +5,6 @@ include_in_header: true
 ---
 
 # Changelog
-Here you will find all changes made over time. Minor changes, simple bugs fixes and server side issues won't be declared here.
 
 <br>
 
