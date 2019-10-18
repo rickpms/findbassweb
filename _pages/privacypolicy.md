@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-Octuber 17 2019
+Octuber 18 2019
 
 # Privacy Policy
  This policy applies to all information collected or submitted on Find Bass's website and our apps for iPhone and any other devices and platforms.
