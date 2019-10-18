@@ -18,6 +18,7 @@ First version released of the app. With this version you will be able to find a 
 - UI improvements
 - Filtering options
 - More venues
+- Notifications for tier 1 tickets
 - And more...
 
 <br>
